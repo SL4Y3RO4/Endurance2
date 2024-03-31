@@ -25,7 +25,7 @@ function setDecayStyle() {
 function setSecondsStyle() {
 
     sec.style.fontFamily = "arial";
-    sec.style.top = "15%";
+    sec.style.top = "8%";
     sec.style.left = "31%";
     sec.style.color = color.pur;
     sec.style.position = "absolute";
