@@ -45,7 +45,7 @@ function setDecayEvent() {
 
 
         decay.innerHTML = "Game Over";
-        window.open("login.html");
+        window.open("login/login.html");
         clearInterval(ani);
         clearInterval(ani3);
         target.remove();
