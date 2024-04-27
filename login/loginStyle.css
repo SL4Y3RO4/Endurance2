@@ -1,0 +1,73 @@
+body{
+
+    font-family: Arial;
+
+}
+
+form, input {
+
+    position: relative;
+    margin:10px;
+    border-radius:45px;
+
+}
+
+form {
+
+    left:-3%;
+    background: black;
+    width: 300px;
+    border: 2px solid green;
+    border-radius:45px;
+
+}
+
+input {
+
+    width: 200px;
+    padding: 5px;
+    position: relative;
+    left: 4%;
+
+}
+
+label {
+
+    position: relative;
+    left:8%;
+    color:green;
+
+}
+
+#hitbox {
+
+    position: relative;
+    left:40%;
+    top:20%;
+
+}
+
+#sign-up {
+
+    background:green;
+    color:black;
+    border: 2px solid green;
+    border-radius:45px;
+
+}
+
+#reset{
+
+    background:green;
+    color:black;
+    border: 2px solid black;
+    border-radius:45px;
+    
+}
+
+h1 {
+
+    position: relative;
+    left:2%;
+
+}
